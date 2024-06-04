@@ -7,12 +7,16 @@ class ProductionOrder:
         self.__produced_units = 0
 
     def get_order_number(self):
+        return
 
     def start(self):
+        return
 
     def finish(self):
+        return
 
     def produce(self, units):
+        return
 
     def get_production_efficiency(self):
 
