@@ -1,4 +1,5 @@
-import ProductionOrder,  ProductionLine, mes_utils
+from ProductionLine import *
+from mes_utils import *
 
 class MES:
     def __init__(self):
